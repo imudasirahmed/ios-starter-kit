@@ -8,4 +8,5 @@ A starter kit for iOS programming
 
 # iOS
 - [Container Controllers](https://github.com/imudasirahmed/ios-starter-kit/blob/main/ios/container-controllers.md)
+- [Status Bar Customization](https://github.com/imudasirahmed/ios-starter-kit/blob/main/ios/container-controllers.md)
 - 
