@@ -1,0 +1,5 @@
+# Status Bar Customization
+
+## Coloring
+```
+```
