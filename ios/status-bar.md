@@ -1,5 +1,6 @@
 # Status Bar Customization
 
-## Coloring
-```
+## Coloring the status bar white
+```swift
+
 ```
