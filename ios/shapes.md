@@ -4,7 +4,7 @@ Shapes can also be applied as backgrounds to View Components
 
 ```swift
 Circle()
-  . fill(.purple)
+  .fill(.purple)
   .foregroundColor(.yellow)
   .stroke()
   .stroke(.red)
